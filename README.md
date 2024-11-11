@@ -38,7 +38,7 @@ To run the Text Summarization App locally, follow these steps:
 
 3. **Clone the repository**:
    ```bash
-   git clone https://github.com/aunkidwai/text-summarization-app.git
+   git clone [https://github.com/aunkidwai/text-summarization-app.git](https://github.com/aunkidwai/text-summarization-app.git)
    cd text-summarization-app
    ```
 
